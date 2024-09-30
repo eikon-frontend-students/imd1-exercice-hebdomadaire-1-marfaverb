@@ -2,16 +2,13 @@
 
 body {
   font-family: "Silkscreen", monospace;
-  margin-top: 100px;
-  margin-left: 90px;
+  margin: 100px 0px 0px 90px;
   max-width: 460px;
 }
 h1 {
   width: 210px;
   height: 77px;
-  margin-top: 7px;
-  margin-left: 23px;
-  margin-bottom: 0px;
+  margin: 7px 0px 0px 23px;
   opacity: 0px;
   font-family: Silkscreen;
   font-size: 60px;
@@ -22,8 +19,7 @@ h1 {
 p {
   width: 402px;
   height: 60px;
-  margin-top: 0px;
-  margin-left: 28px;
+  margin: 0px 0px 0px 28px;
   gap: 0px;
   font-family: Silkscreen;
   font-size: 16px;
