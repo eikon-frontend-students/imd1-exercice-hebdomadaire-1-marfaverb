@@ -2,8 +2,57 @@
 
 body {
   font-family: "Silkscreen", monospace;
+  margin: 100px 0px 0px 90px;
+  max-width: 460px;
+}
+h1 {
+  width: 210px;
+  height: 77px;
+  margin: 7px 0px 0px 23px;
+  opacity: 0px;
+  font-family: Silkscreen;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 76.8px;
+  text-align: left;
+}
+p {
+  width: 402px;
+  height: 60px;
+  margin: 0px 0px 0px 28px;
+  gap: 0px;
+  font-family: Silkscreen;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20.48px;
+  text-align: left;
 }
 
+main.header {
+  border-width: 3px;
+  border-style: solid;
+  border-color: hsba(0, 0%, 0%, 1);
+  border-right: 0px;
+  border-bottom: 0px;
+  width: 457px;
+  height: 155px;
+}
+a {
+  width: 372px;
+  height: 38px;
+  top: 487px;
+  left: 90px;
+  gap: 0px;
+  font-family: Silkscreen;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 38.4px;
+  text-align: left;
+  color: black;
+  margin-top: 7px;
+}
 img {
   display: block;
+  margin-top: 7px;
+  width: 460px;
 }
