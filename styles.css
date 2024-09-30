@@ -2,12 +2,9 @@
 
 body {
   font-family: "Silkscreen", monospace;
-  max-width: max-content;
-  max-height: max-content;
   margin-top: 100px;
   margin-left: 90px;
-  width: 460px;
-  height: 158px;
+  max-width: 460px;
 }
 h1 {
   width: 210px;
@@ -15,7 +12,6 @@ h1 {
   margin-top: 7px;
   margin-left: 23px;
   margin-bottom: 0px;
-  gap: 0px;
   opacity: 0px;
   font-family: Silkscreen;
   font-size: 60px;
